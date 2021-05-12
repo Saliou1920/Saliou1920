@@ -1,4 +1,4 @@
-## Hi there 👋, I am Saliou. 
+# Hi there 👋, I am Saliou. 
 
 ### Here is What I'm working On!
 
@@ -8,7 +8,6 @@
 - 🔭 Currently I am working as an intern at Greystone
 - 🌱 I’m currently learning ... React
 - 👯 I’m looking to collaborate on ... React
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/saliou-diop-527741112/)
 - 😄 Pronouns: ... He/Him
