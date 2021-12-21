@@ -6,8 +6,8 @@
 
 - 🎓 Soon to be grad with a Bachelor in Computer Science Coop (Dec 2021)
 - 🔭 Currently I am working as an intern at Greystone
-- 🌱 I’m currently learning ... React
-- 👯 I’m looking to collaborate on ... React
+- 🌱 I’m currently learning ... TypeScript
+- 👯 I’m looking to collaborate on ... React, PHP
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/saliou-diop-527741112/)
 - 😄 Pronouns: ... He/Him
