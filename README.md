@@ -4,7 +4,7 @@
 
 ---
 
-- 🎓 Computer Science Coop grad (Dec 2021)
+- 🎓 Computer Science Coop Grad (Dec 2021)
 - 🔭 Currently I am working as an intern at Greystone
 - 🌱 I’m currently learning ... TypeScript
 - 👯 I’m looking to collaborate on ... React, PHP
