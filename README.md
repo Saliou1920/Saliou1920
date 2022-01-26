@@ -37,6 +37,3 @@
 
 ![Saliou's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saliou1920&show_icons=true&theme=radical)
 
-<br/>
-
-
