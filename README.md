@@ -4,8 +4,8 @@
 
 ---
 
-- 🎓 Computer Science Coop Grad (Dec 2021)
-- 🔭 Currently I am working as an intern at Greystone
+- 🎓 Computer Science Coop Grad (Class 2022)
+- 🔭 Currently I am working as a Junior Sofware Developer at Jarvis
 - 🌱 I’m currently learning ... TypeScript
 - 👯 I’m looking to collaborate on ... React, Express
 - 💬 Ask me about ... Anything
