@@ -4,7 +4,7 @@
 
 ---
 
-- 🎓 Computer Science Coop Grad (Class 2022)
+- 🎓 Computer Science Coop Grad (Class Feb 2022)
 - 🔭 Currently I am working as a Junior Sofware Developer at Jarvis
 - 🌱 I’m currently learning ... TypeScript
 - 👯 I’m looking to collaborate on ... React, Express
