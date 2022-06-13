@@ -5,8 +5,8 @@
 ---
 
 - 🎓 Computer Science Coop Grad (Class Feb 2022)
-- 🔭 Currently I am working as a Junior Sofware Developer at Jarvis
-- 🌱 I’m currently learning ... Java
+- 🔭 Currently I am working as a Sofware Developer at Jarvis
+- 🌱 I’m currently learning ... K8s
 - 👯 I’m looking to collaborate on ... React, Express, Java, C++
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/saliou-diop-527741112/)
