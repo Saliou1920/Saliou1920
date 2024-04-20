@@ -10,7 +10,7 @@ I graduated in February 2022 with a B.S. in Applied Computer Science Co-op from 
 * 🖥️  See my portfolio at [Website](http://salihou.com)
 * ✉️  You can contact me at [diopsaliou45@gmail.com](mailto:diopsaliou45@gmail.com)
 * 🧠  I'm learning K8s
-* 🤝  I'm open to collaborating on Java, SpringBoot, React, Javascript, Node JS
+* 🤝  I'm open to collaborating on Java, SpringBoot, React, Typescript, Node JS
 * ⚡  I speak 3 languages
 
 ### Skills
