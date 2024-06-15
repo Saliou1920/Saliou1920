@@ -7,7 +7,7 @@ Senior Fullstack Developer at NBC
 I have a passion for crafting seamless and intuitive user experiences.
 
 * 🖥️  See my portfolio at [Website](http://saalihu.dev)
-* ✉️  You can contact me at [diopsaliou45@gmail.com](mailto:diopsaliou45@gmail.com)
+* ✉️  You can contact me at [diopsaliou45@gmail.com](mailto:contact@saalihu.dev)
 
 
 ### Skills
