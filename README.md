@@ -1,17 +1,14 @@
-Hi 👋 My name is Saliou Diop
+Hi 👋 I'm Saliou
 ============================
 
-Software Developer
+Senior Fullstack Developer at NBC
 ------------------
 
-I graduated in February 2022 with a B.S. in Applied Computer Science Co-op from Université de Moncton. In high school, I had an opportunity to interact with computers. They have been my passion, especially in writing code. The feeling that I can create anything from several lines of code and it could be useful to other people encouraged me to pursue a career as a software developer.
+I have a passion for crafting seamless and intuitive user experiences.
 
-* 🌍  I'm based in Moncton, NB
-* 🖥️  See my portfolio at [Website](http://salihou.com)
+* 🖥️  See my portfolio at [Website](http://saalihu.dev)
 * ✉️  You can contact me at [diopsaliou45@gmail.com](mailto:diopsaliou45@gmail.com)
-* 🧠  I'm learning K8s
-* 🤝  I'm open to collaborating on Java, SpringBoot, React, Typescript, Node JS
-* ⚡  I speak 3 languages
+
 
 ### Skills
 
