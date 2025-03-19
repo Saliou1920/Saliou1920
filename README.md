@@ -1,7 +1,7 @@
 Hi 👋 I'm Saliou
 ============================
 
-Senior Fullstack Developer at NBC
+Senior Fullstack Developer
 ------------------
 
 I have a passion for crafting seamless and intuitive user experiences.
