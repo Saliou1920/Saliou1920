@@ -40,4 +40,4 @@ I have a passion for crafting seamless and intuitive user experiences.
 
 <a href="http://www.github.com/Saliou1920"><img src="https://github-readme-stats.vercel.app/api?username=Saliou1920&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Saliou1920's GitHub stats" /></a>
 
-[![GitHub Streak](github-readme-streak-stats-henna-beta.vercel.app?user=Saliou1920&theme=monokai)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-git-main-saliou1920s-projects.vercel.app?user=Saliou1920" alt="GitHub Streak" /></a>
